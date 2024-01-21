@@ -1,5 +1,3 @@
-### README.md
-
 #### Project Description
 This project is an implementation of a command-line interface for an AirBnB-like application. It includes a command interpreter that allows users to create, show, destroy, update, and list various instances such as BaseModel, User, State, City, Amenity, Place, and Review. The project also includes a file storage system for serializing instances to a JSON file and deserializing instances from the JSON file.
 
